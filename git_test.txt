@@ -1,1 +1,1 @@
-test for git_demo
+test for GitDemo
